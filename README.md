@@ -38,7 +38,7 @@ Follow the steps below to set up and run the project on your local machine:
 ### 1. Clone the Repository
 Download the project files by cloning this repository using the following command:
 bash
-git clone https://github.com/yourusername/library-management.git
+git clone https://github.com/charan4421/library-management.git
 
 
 ### 2. Navigate to Project Directory
